@@ -43,4 +43,5 @@ iPod Touch 6
 
 ## Download Link
 [Public beta](http://erric.cc/downloads/iOS_10_Public_Profile.mobileconfig)
+
 [Developer beta](http://erric.cc/downloads/iOS_beta_Configuration_Profile.mobileconfig)

@@ -27,8 +27,8 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
+  - name:	    "iOS 10 beta"
+    href:	    "/ios10"
 
 # Sass
 sass:
