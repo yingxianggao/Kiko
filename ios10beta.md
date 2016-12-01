@@ -21,8 +21,6 @@ iPhone 7/7 Plus
 
 ### iPad
 
-iPad 3
-
 iPad 4
 
 iPad Air
@@ -45,3 +43,8 @@ iPod Touch 6
 [Public beta](http://erric.cc/downloads/iOS_10_Public_Profile.mobileconfig)
 
 [Developer beta](http://erric.cc/downloads/iOS_beta_Configuration_Profile.mobileconfig)
+
+## More Information
+
+For more information, please visit [Apple's offical iOS 10 website](http://apple.com/ios/ios-10).
+
